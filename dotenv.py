@@ -221,7 +221,7 @@ class DotEnv:
 dotenv = DotEnv()
 
 
-__all__ = ("load_dotenv", "set_key", "getenv", "dotenv")
+__all__ = ("load_dotenv", "set_key", "remove_key", "getenv", "dotenv")
 __author__ = "waifusempire"
 __version__ = "1.0.0"
 __author_email__ = "waifusempire@gmail.com"
